@@ -1,0 +1,331 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Myntra Scraper - Analytics Dashboard</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <!-- Sidebar -->
+      <aside class="sidebar">
+        <div class="logo">
+          <h2>📊 Myntra Scraper</h2>
+        </div>
+        <nav class="menu">
+          <ul>
+            <li>
+              <a href="#" class="menu-item active" data-section="dashboard">
+                <span class="icon">📈</span> Dashboard
+              </a>
+            </li>
+            <li>
+              <a href="#" class="menu-item" data-section="products">
+                <span class="icon">🛍️</span> Products
+              </a>
+            </li>
+            <li>
+              <a href="#" class="menu-item" data-section="reviews">
+                <span class="icon">⭐</span> Reviews
+              </a>
+            </li>
+            <li>
+              <a href="#" class="menu-item" data-section="analytics">
+                <span class="icon">📊</span> Analytics
+              </a>
+            </li>
+            <li>
+              <a href="#" class="menu-item" data-section="recommendations">
+                <span class="icon">💎</span> Recommendations
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <div class="scraper-status">
+          <h4>Scraper Status</h4>
+          <div class="status-item">
+            <span class="status-dot active"></span> Active
+          </div>
+          <div class="stats">
+            <div class="stat">
+              <span class="label">Pages Scraped</span>
+              <span class="value">12</span>
+            </div>
+            <div class="stat">
+              <span class="label">Products Found</span>
+              <span class="value" id="product-count">0</span>
+            </div>
+            <div class="stat">
+              <span class="label">Last Updated</span>
+              <span class="value" id="last-updated">Just now</span>
+            </div>
+          </div>
+        </div>
+      </aside>
+
+      <!-- Main Content -->
+      <main class="main-content">
+        <!-- Header -->
+        <header class="header">
+          <div class="header-content">
+            <h1 id="section-title">Dashboard</h1>
+            <div class="header-actions">
+              <form id="search-form" class="search-form">
+                <input
+                  type="text"
+                  class="search-box"
+                  id="search-box"
+                  placeholder="Product name (e.g. mouse, white shoes)..."
+                />
+                <input
+                  type="url"
+                  class="search-box search-url-box"
+                  id="product-url-box"
+                  placeholder="Myntra product URL (optional)..."
+                />
+                <label class="product-count-label" for="product-count">
+                  Products to Scrape
+                  <input
+                    type="number"
+                    class="product-count-input"
+                    id="product-count"
+                    min="1"
+                    max="50"
+                    value="3"
+                    title="Number of products to scrape (1–50)"
+                  />
+                </label>
+                <button type="submit" class="search-btn" id="search-btn">
+                  🔍 Scrape
+                </button>
+              </form>
+              <div class="dropdown">
+                <button class="export-btn">📥 Export</button>
+                <div class="dropdown-content">
+                  <a href="/api/export/csv">CSV</a>
+                  <a href="#" onclick="exportToExcel()">Excel</a>
+                  <a href="#" onclick="exportToJSON()">JSON</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+
+        <!-- Loading Overlay -->
+        <div id="loading-overlay" class="loading-overlay hidden">
+          <div class="loading-spinner">
+            <div class="spinner"></div>
+            <p id="loading-text">Scraping products...</p>
+          </div>
+        </div>
+
+        <!-- Alert Messages -->
+        <div id="alert-message" class="alert-message hidden"></div>
+
+        <!-- Dashboard Section -->
+        <section id="dashboard-section" class="section active">
+          <!-- Analytics Cards -->
+          <div class="analytics-cards">
+            <div class="card">
+              <div class="card-icon">📦</div>
+              <div class="card-content">
+                <span class="card-label">Total Products</span>
+                <span class="card-value" id="total-products">0</span>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-icon">💰</div>
+              <div class="card-content">
+                <span class="card-label">Average Price</span>
+                <span class="card-value" id="avg-price">₹0</span>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-icon">🏷️</div>
+              <div class="card-content">
+                <span class="card-label">Brands Found</span>
+                <span class="card-value" id="brands-found">0</span>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-icon">⭐</div>
+              <div class="card-content">
+                <span class="card-label">Average Rating</span>
+                <span class="card-value" id="avg-rating">0/5</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Charts Section -->
+          <div class="charts-container">
+            <div class="chart-box">
+              <h3>Price Distribution</h3>
+              <canvas id="priceChart"></canvas>
+            </div>
+            <div class="chart-box">
+              <h3>Top Brands</h3>
+              <canvas id="brandChart"></canvas>
+            </div>
+            <div class="chart-box">
+              <h3>Sentiment Distribution</h3>
+              <canvas id="sentimentChart"></canvas>
+            </div>
+            <div class="chart-box">
+              <h3>Rating Distribution</h3>
+              <canvas id="ratingChart"></canvas>
+            </div>
+          </div>
+        </section>
+
+        <!-- Products Section -->
+        <section id="products-section" class="section">
+          <div class="filters">
+            <input
+              type="text"
+              id="product-search"
+              placeholder="Search products in database..."
+              class="search-box"
+            />
+            <label>Sort By:</label>
+            <select id="sort-field">
+              <option value="created_at">Newest</option>
+              <option value="price">Price</option>
+              <option value="rating">Rating</option>
+              <option value="name">Name</option>
+              <option value="brand">Brand</option>
+              <option value="reviews">Reviews</option>
+            </select>
+            <select id="sort-order">
+              <option value="desc">Desc</option>
+              <option value="asc">Asc</option>
+            </select>
+            <label>Brand:</label>
+            <select id="brand-filter">
+              <option value="">All Brands</option>
+            </select>
+            <label>Category:</label>
+            <select id="category-filter">
+              <option value="">All Categories</option>
+            </select>
+            <label>Max Price:</label>
+            <input
+              type="range"
+              id="price-range"
+              min="0"
+              max="50000"
+              step="500"
+            />
+            <span id="price-value">₹50000</span>
+            <button class="btn-clear" onclick="applyProductFilters()">Apply</button>
+            <button class="btn-clear" onclick="clearFilters()">Clear</button>
+          </div>
+          <div class="table-container">
+            <table class="products-table">
+              <thead>
+                <tr>
+                  <th>Product Image</th>
+                  <th>Product Name</th>
+                  <th>Brand</th>
+                  <th>Price</th>
+                  <th>Discount</th>
+                  <th>Rating</th>
+                  <th>Reviews</th>
+                  <th>Action</th>
+                </tr>
+              </thead>
+              <tbody id="products-tbody">
+                <!-- Populated by JavaScript -->
+              </tbody>
+            </table>
+          </div>
+          <div class="pagination">
+            <button onclick="prevPage()">← Previous</button>
+            <span id="page-info">Page 1</span>
+            <button onclick="nextPage()">Next →</button>
+          </div>
+        </section>
+
+        <!-- Reviews Section -->
+        <section id="reviews-section" class="section">
+          <div class="reviews-container">
+            <h3>Recent Reviews</h3>
+            <div class="filters reviews-filters">
+              <label>Sentiment:</label>
+              <select id="sentiment-filter">
+                <option value="">All Sentiments</option>
+                <option value="Positive">Positive</option>
+                <option value="Neutral">Neutral</option>
+                <option value="Negative">Negative</option>
+              </select>
+              <label>Min Rating:</label>
+              <select id="review-rating-filter">
+                <option value="">Any</option>
+                <option value="5">5 Stars</option>
+                <option value="4">4+ Stars</option>
+                <option value="3">3+ Stars</option>
+                <option value="2">2+ Stars</option>
+                <option value="1">1+ Stars</option>
+              </select>
+              <button class="btn-clear" onclick="loadReviews(1)">Apply Filters</button>
+            </div>
+            <div id="reviews-list" class="reviews-list">
+              <!-- Populated by JavaScript -->
+            </div>
+            <div class="pagination">
+              <button onclick="prevReviewPage()">← Previous</button>
+              <span id="review-page-info">Page 1</span>
+              <button onclick="nextReviewPage()">Next →</button>
+            </div>
+          </div>
+        </section>
+
+        <!-- Analytics Section -->
+        <section id="analytics-section" class="section">
+          <div class="analytics-content">
+            <h3>Scraping Analytics & Trends</h3>
+            <canvas id="trendsChart"></canvas>
+            <div class="analytics-table">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Timestamp</th>
+                    <th>Product Name</th>
+                    <th>Total Reviews</th>
+                    <th>Avg Rating</th>
+                    <th>Positive %</th>
+                    <th>Negative %</th>
+                    <th>Neutral %</th>
+                  </tr>
+                </thead>
+                <tbody id="analytics-tbody">
+                  <!-- Populated by JavaScript -->
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <!-- Recommendations Section -->
+        <section id="recommendations-section" class="section">
+          <div class="recommendations-content">
+            <h3>🌟 Recommended Products</h3>
+            <p class="criteria">
+              <strong>Criteria:</strong> Average Rating > 4.2 | Reviews > 100 |
+              Positive Sentiment > 60%
+            </p>
+            <div id="recommendations-list" class="recommendations-list">
+              <!-- Populated by JavaScript -->
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+  </body>
+</html>

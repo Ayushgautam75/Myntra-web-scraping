@@ -1,0 +1,608 @@
+2026-06-06 18:13:17 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:17 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:13:17 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:17 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:13:22 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:22 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:13:22 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:22 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:13:37 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:37 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:37 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:13:37 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:13:40 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:40 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:13:40 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:40 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:13:43 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:43 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:13:43 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:43 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:13:47 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:47 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:13:59 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:59 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:13:59 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:13:59 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:14:06 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:14:06 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:14:06 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:14:06 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:14:31 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:14:31 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:14:33 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:14:33 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:18:10 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:18:10 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:25:59 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:25:59 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:26:09 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:26:09 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:26:10 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:26:10 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:26:28 - myntra_scraper - ERROR - [ERROR] Error in scrape endpoint: No module named 'textblob'
+2026-06-06 18:27:30 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:27:30 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:27:36 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:27:36 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:27:41 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:27:41 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:27:53 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:27:53 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:28:09 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:28:09 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:28:10 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:28:10 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:28:22 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:28:22 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:28:24 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:28:24 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:29:12 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:29:12 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:29:13 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:29:13 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:31:37 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:31:37 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:31:38 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:31:38 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:32:14 - myntra_scraper - INFO - [START] Scraping products for: white shoes
+2026-06-06 18:32:34 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 18:32:41 - myntra_scraper - INFO - [OK] Searching for: white shoes
+2026-06-06 18:32:43 - myntra_scraper - INFO - [OK] Found 0 products
+2026-06-06 18:33:04 - myntra_scraper - INFO - [START] Scraping products for: tshirt
+2026-06-06 18:33:09 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 18:33:22 - myntra_scraper - INFO - [OK] Searching for: tshirt
+2026-06-06 18:33:25 - myntra_scraper - INFO - [OK] Found 0 products
+2026-06-06 18:38:23 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:38:23 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:38:29 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:38:29 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:38:34 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:38:34 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:38:45 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:38:45 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:39:08 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:39:08 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:39:13 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:39:13 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:39:15 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:39:15 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:39:43 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:39:43 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:39:46 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:39:46 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:40:07 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:40:07 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:40:53 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:40:53 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:40:55 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:40:55 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:52:27 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 18:54:06 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 18:54:06 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/search?rawQuery=tshirt
+2026-06-06 18:54:15 - myntra_scraper - INFO - [OK] Searching for: tshirt
+2026-06-06 18:54:15 - myntra_scraper - INFO - [INFO] Waiting for products to load...
+2026-06-06 18:54:21 - myntra_scraper - WARNING - [WARNING] Timeout waiting for product elements, proceeding anyway
+2026-06-06 18:54:24 - myntra_scraper - INFO - [INFO] Extracting product URLs from page...
+2026-06-06 18:54:24 - myntra_scraper - INFO - [INFO] Found 570 total links on page
+2026-06-06 18:54:24 - myntra_scraper - INFO - [INFO] Extracted 0 product URLs
+2026-06-06 18:54:24 - myntra_scraper - WARNING - [WARNING] No products found with href method, trying alternative...
+2026-06-06 18:54:24 - myntra_scraper - INFO - [INFO] Found 645 potential product containers
+2026-06-06 18:54:24 - myntra_scraper - INFO - [OK] Final count: 0 products extracted
+2026-06-06 18:54:26 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 18:59:25 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 18:59:34 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 18:59:34 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/white-shoes?rawQuery=white%20shoes
+2026-06-06 18:59:41 - myntra_scraper - INFO - [OK] Searching for: white shoes
+2026-06-06 18:59:41 - myntra_scraper - INFO - [OK] Extracted 32 unique products from search
+2026-06-06 18:59:45 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/heels/baesd/baesd-girls-embellished-open-toe-wedges-with-bows--velcro-closure/26313088/buy
+2026-06-06 18:59:46 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 18:59:53 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:00:06 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:00:07 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:00:22 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:00:24 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:00:24 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:00:45 - myntra_scraper - INFO - [START] Scraping products for: tshirt
+2026-06-06 19:00:48 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:00:48 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/tshirt?rawQuery=tshirt
+2026-06-06 19:00:53 - myntra_scraper - INFO - [OK] Searching for: tshirt
+2026-06-06 19:00:53 - myntra_scraper - INFO - [OK] Extracted 34 unique products from search
+2026-06-06 19:00:53 - myntra_scraper - INFO - [INFO] Processing product 1/3
+2026-06-06 19:00:55 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/tshirts/szn/brooklyn-typography-printed-oversized-t-shirt/33867475/buy
+2026-06-06 19:00:56 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:00:56 - myntra_scraper - ERROR - [ERROR] Error processing product: ProductSchema.create() got an unexpected keyword argument 'product_id'
+2026-06-06 19:00:56 - myntra_scraper - ERROR - Traceback (most recent call last):
+  File "E:\mytra Web Scraping\app\backend\routes.py", line 421, in scrape_products
+    product_doc = ProductSchema.create(**product_details)
+TypeError: ProductSchema.create() got an unexpected keyword argument 'product_id'
+
+2026-06-06 19:00:56 - myntra_scraper - INFO - [INFO] Processing product 2/3
+2026-06-06 19:00:58 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/tshirts/keesor/keesor-girls-pack-of-3-cotton-tshirts/35508616/buy
+2026-06-06 19:00:58 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:00:58 - myntra_scraper - ERROR - [ERROR] Error processing product: ProductSchema.create() got an unexpected keyword argument 'product_id'
+2026-06-06 19:00:58 - myntra_scraper - ERROR - Traceback (most recent call last):
+  File "E:\mytra Web Scraping\app\backend\routes.py", line 421, in scrape_products
+    product_doc = ProductSchema.create(**product_details)
+TypeError: ProductSchema.create() got an unexpected keyword argument 'product_id'
+
+2026-06-06 19:00:58 - myntra_scraper - INFO - [INFO] Processing product 3/3
+2026-06-06 19:00:59 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/tshirts/marks+%26+spencer/marks--spencer-pure-cotton-plain-t-shirt/40651844/buy
+2026-06-06 19:01:00 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:01:00 - myntra_scraper - ERROR - [ERROR] Error processing product: ProductSchema.create() got an unexpected keyword argument 'product_id'
+2026-06-06 19:01:00 - myntra_scraper - ERROR - Traceback (most recent call last):
+  File "E:\mytra Web Scraping\app\backend\routes.py", line 421, in scrape_products
+    product_doc = ProductSchema.create(**product_details)
+TypeError: ProductSchema.create() got an unexpected keyword argument 'product_id'
+
+2026-06-06 19:01:06 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:01:14 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:01:20 - myntra_scraper - INFO - [START] Scraping products for: tshirt
+2026-06-06 19:01:21 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:01:25 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:01:25 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/tshirt?rawQuery=tshirt
+2026-06-06 19:01:29 - myntra_scraper - INFO - [OK] Searching for: tshirt
+2026-06-06 19:01:30 - myntra_scraper - INFO - [OK] Extracted 34 unique products from search
+2026-06-06 19:01:30 - myntra_scraper - INFO - [INFO] Processing product 1/3
+2026-06-06 19:01:32 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/tshirts/szn/brooklyn-typography-printed-oversized-t-shirt/33867475/buy
+2026-06-06 19:01:33 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:01:33 - myntra_scraper - INFO - Product inserted: 6a2421351d2a9421bb825a68
+2026-06-06 19:01:33 - myntra_scraper - INFO - [INFO] Processing product 2/3
+2026-06-06 19:01:35 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/tshirts/keesor/keesor-girls-pack-of-3-cotton-tshirts/35508616/buy
+2026-06-06 19:01:35 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:01:35 - myntra_scraper - INFO - Product inserted: 6a2421371d2a9421bb825a6a
+2026-06-06 19:01:35 - myntra_scraper - INFO - [INFO] Processing product 3/3
+2026-06-06 19:01:37 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/tshirts/marks+%26+spencer/marks--spencer-pure-cotton-plain-t-shirt/40651844/buy
+2026-06-06 19:01:37 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:01:38 - myntra_scraper - INFO - Product inserted: 6a24213a1d2a9421bb825a6c
+2026-06-06 19:01:44 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:01:52 - myntra_scraper - INFO - [START] Scraping products for: jeans
+2026-06-06 19:01:56 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:01:56 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/jeans?rawQuery=jeans
+2026-06-06 19:02:01 - myntra_scraper - INFO - [OK] Searching for: jeans
+2026-06-06 19:02:01 - myntra_scraper - INFO - [OK] Extracted 32 unique products from search
+2026-06-06 19:02:01 - myntra_scraper - INFO - [INFO] Processing product 1/2
+2026-06-06 19:02:04 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/jeans/vero+moda/vero-moda-girls-bootcut-high-rise-stretchable-jeans/37274459/buy
+2026-06-06 19:02:04 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:02:04 - myntra_scraper - INFO - Product inserted: 6a2421541d2a9421bb825a6e
+2026-06-06 19:02:04 - myntra_scraper - INFO - [INFO] Processing product 2/2
+2026-06-06 19:02:06 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/jeans/kotty/kotty-women-jean-straight-fit-high-rise-stretchable-jeans/31255351/buy
+2026-06-06 19:02:07 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:02:07 - myntra_scraper - INFO - Product inserted: 6a2421571d2a9421bb825a70
+2026-06-06 19:02:14 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:02:21 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:02:24 - myntra_scraper - INFO - [START] Scraping products for: watch
+2026-06-06 19:02:25 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:02:29 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:02:29 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/watch?rawQuery=watch
+2026-06-06 19:02:32 - myntra_scraper - INFO - [OK] Searching for: watch
+2026-06-06 19:02:32 - myntra_scraper - INFO - [OK] Extracted 32 unique products from search
+2026-06-06 19:02:32 - myntra_scraper - INFO - [INFO] Processing product 1/2
+2026-06-06 19:02:34 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/smart-watches/noise/noise-noisefit-halo-143-amoled-display-smart-watch/36537084/buy
+2026-06-06 19:02:35 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:02:35 - myntra_scraper - INFO - Product inserted: 6a2421739ca2e4bd7c4aed32
+2026-06-06 19:02:35 - myntra_scraper - INFO - [INFO] Processing product 2/2
+2026-06-06 19:02:37 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/smart-watches/realme/realme-watch-5-197-amoled-display-upto-ip68-smartwatch/39405903/buy
+2026-06-06 19:02:37 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:02:37 - myntra_scraper - INFO - Product inserted: 6a2421759ca2e4bd7c4aed34
+2026-06-06 19:02:44 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:04:49 - myntra_scraper - INFO - [START] Scraping products for: tshirt
+2026-06-06 19:04:52 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:04:52 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/tshirt?rawQuery=tshirt
+2026-06-06 19:04:57 - myntra_scraper - INFO - [OK] Searching for: tshirt
+2026-06-06 19:04:57 - myntra_scraper - INFO - [OK] Extracted 34 unique products from search
+2026-06-06 19:04:57 - myntra_scraper - INFO - [INFO] Processing product 1/5
+2026-06-06 19:04:59 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/tshirts/szn/brooklyn-typography-printed-oversized-t-shirt/33867475/buy
+2026-06-06 19:05:00 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:05:00 - myntra_scraper - INFO - Product updated: 6a2421351d2a9421bb825a68
+2026-06-06 19:05:00 - myntra_scraper - INFO - [INFO] Processing product 2/5
+2026-06-06 19:05:02 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/tshirts/keesor/keesor-girls-pack-of-3-cotton-tshirts/35508616/buy
+2026-06-06 19:05:02 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:05:03 - myntra_scraper - INFO - Product updated: 6a2421371d2a9421bb825a6a
+2026-06-06 19:05:03 - myntra_scraper - INFO - [INFO] Processing product 3/5
+2026-06-06 19:05:04 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/tshirts/marks+%26+spencer/marks--spencer-pure-cotton-plain-t-shirt/40651844/buy
+2026-06-06 19:05:04 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:05:05 - myntra_scraper - INFO - Product updated: 6a24213a1d2a9421bb825a6c
+2026-06-06 19:05:05 - myntra_scraper - INFO - [INFO] Processing product 4/5
+2026-06-06 19:05:06 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/tshirts/here%26now/herenow-brand-logo-polo-collar-cotton-regular-fit-t-shirt/41920278/buy
+2026-06-06 19:05:14 - myntra_scraper - INFO - [INFO] Reviews section not immediately visible; scrolling
+2026-06-06 19:05:15 - myntra_scraper - INFO - [OK] Extracted 0 reviews
+2026-06-06 19:05:15 - myntra_scraper - INFO - Product inserted: 6a2422139ca2e4bd7c4aed39
+2026-06-06 19:05:15 - myntra_scraper - INFO - [INFO] Processing product 5/5
+2026-06-06 19:05:17 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/tshirts/glitchez/glitchez-typography-printed-t-shirt/31735935/buy
+2026-06-06 19:05:17 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:05:17 - myntra_scraper - INFO - Product inserted: 6a2422159ca2e4bd7c4aed3a
+2026-06-06 19:05:24 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:06:35 - myntra_scraper - INFO - [START] Scraping products for: cover
+2026-06-06 19:06:38 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:06:38 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/cover?rawQuery=cover
+2026-06-06 19:06:42 - myntra_scraper - INFO - [OK] Searching for: cover
+2026-06-06 19:06:43 - myntra_scraper - INFO - [OK] Extracted 38 unique products from search
+2026-06-06 19:06:43 - myntra_scraper - INFO - [INFO] Processing product 1/5
+2026-06-06 19:06:44 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mobile-accessories/liramark/liramark-solid-oppo-f23-5g-soft-back-case-/34790098/buy
+2026-06-06 19:06:53 - myntra_scraper - INFO - [INFO] Reviews section not immediately visible; scrolling
+2026-06-06 19:06:53 - myntra_scraper - INFO - [OK] Extracted 0 reviews
+2026-06-06 19:06:53 - myntra_scraper - INFO - Product inserted: 6a2422759ca2e4bd7c4aed3c
+2026-06-06 19:06:53 - myntra_scraper - INFO - [INFO] Processing product 2/5
+2026-06-06 19:06:55 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mobile-accessories/sprig/sprig-redmi-9i-tpu-matte-back-cover/35843627/buy
+2026-06-06 19:07:03 - myntra_scraper - INFO - [INFO] Reviews section not immediately visible; scrolling
+2026-06-06 19:07:04 - myntra_scraper - INFO - [OK] Extracted 0 reviews
+2026-06-06 19:07:04 - myntra_scraper - INFO - Product inserted: 6a2422809ca2e4bd7c4aed3d
+2026-06-06 19:07:04 - myntra_scraper - INFO - [INFO] Processing product 3/5
+2026-06-06 19:07:05 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mobile-accessories/luxury+kase/luxury-kase-solid-printed-iphone-16-pro-max-back-case-mobile-accessories/33943912/buy
+2026-06-06 19:07:06 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:07:06 - myntra_scraper - INFO - Product inserted: 6a2422829ca2e4bd7c4aed3e
+2026-06-06 19:07:06 - myntra_scraper - INFO - [INFO] Processing product 4/5
+2026-06-06 19:07:07 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mobile-accessories/baskety/baskety-core-solid-adjustable-mobile-stand/33647102/buy
+2026-06-06 19:07:07 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:07:08 - myntra_scraper - INFO - Product inserted: 6a2422839ca2e4bd7c4aed40
+2026-06-06 19:07:08 - myntra_scraper - INFO - [INFO] Processing product 5/5
+2026-06-06 19:07:09 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mobile-accessories/karwan/karwan-solid-printed-iphone-13-back-case-mobile-accessories/33413322/buy
+2026-06-06 19:07:10 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:07:10 - myntra_scraper - INFO - Product inserted: 6a2422869ca2e4bd7c4aed42
+2026-06-06 19:07:16 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:08:33 - myntra_scraper - INFO - [START] Scraping products for: kurta
+2026-06-06 19:08:37 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:08:37 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/kurta?rawQuery=kurta
+2026-06-06 19:08:40 - myntra_scraper - INFO - [OK] Searching for: kurta
+2026-06-06 19:08:41 - myntra_scraper - INFO - [OK] Extracted 34 unique products from search
+2026-06-06 19:08:41 - myntra_scraper - INFO - [INFO] Processing product 1/5
+2026-06-06 19:08:43 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/kurtas/sangria/sangria-boys-yellow--blue-floral-printed-mandarin-collar-straight-cotton-kurta/30266849/buy
+2026-06-06 19:08:43 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:08:43 - myntra_scraper - INFO - Product inserted: 6a2422e39ca2e4bd7c4aed44
+2026-06-06 19:08:44 - myntra_scraper - INFO - [INFO] Processing product 2/5
+2026-06-06 19:08:45 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/kurtas/campana/campana-girls-floral-printed-floral-anarkali-cotton-kurta/34537738/buy
+2026-06-06 19:08:46 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:08:46 - myntra_scraper - INFO - Product inserted: 6a2422e69ca2e4bd7c4aed46
+2026-06-06 19:08:46 - myntra_scraper - INFO - [INFO] Processing product 3/5
+2026-06-06 19:08:47 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/kurtas/baesd/baesd-girls-floral-printed-floral-kurta/41474643/buy
+2026-06-06 19:08:56 - myntra_scraper - INFO - [INFO] Reviews section not immediately visible; scrolling
+2026-06-06 19:08:56 - myntra_scraper - INFO - [OK] Extracted 0 reviews
+2026-06-06 19:08:56 - myntra_scraper - INFO - Product inserted: 6a2422f09ca2e4bd7c4aed48
+2026-06-06 19:08:56 - myntra_scraper - INFO - [INFO] Processing product 4/5
+2026-06-06 19:08:58 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/kurtas/leipzig+fashion/leipzig-fashion-men-kurta/41952773/buy
+2026-06-06 19:09:06 - myntra_scraper - INFO - [INFO] Reviews section not immediately visible; scrolling
+2026-06-06 19:09:07 - myntra_scraper - INFO - [OK] Extracted 0 reviews
+2026-06-06 19:09:07 - myntra_scraper - INFO - Product inserted: 6a2422fb9ca2e4bd7c4aed49
+2026-06-06 19:09:07 - myntra_scraper - INFO - [INFO] Processing product 5/5
+2026-06-06 19:09:09 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/kurtas/aarika/aarika-girls-kurta/41063746/buy
+2026-06-06 19:09:17 - myntra_scraper - INFO - [INFO] Reviews section not immediately visible; scrolling
+2026-06-06 19:09:17 - myntra_scraper - INFO - [OK] Extracted 0 reviews
+2026-06-06 19:09:17 - myntra_scraper - INFO - Product inserted: 6a2423059ca2e4bd7c4aed4a
+2026-06-06 19:09:24 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:11:00 - myntra_scraper - INFO - [START] Scraping products for: https://www.myntra.com/shoes/nike/nike-men-white-running-shoes/12345678/buy
+2026-06-06 19:11:03 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:11:03 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/https://www.myntra.com/shoes/nike/nike-men-white-running-shoes/12345678/buy?rawQuery=https%3A//www.myntra.com/shoes/nike/nike-men-white-running-shoes/12345678/buy
+2026-06-06 19:11:22 - myntra_scraper - ERROR - [ERROR] Error searching products: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7e8277de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7e8277e50+14900]
+	chromedriver!(No symbol) [0x7ff7e7fdd5ad]
+	chromedriver!(No symbol) [0x7ff7e8037822]
+	chromedriver!(No symbol) [0x7ff7e8037b2c]
+	chromedriver!(No symbol) [0x7ff7e8087d17]
+	chromedriver!(No symbol) [0x7ff7e808486f]
+	chromedriver!(No symbol) [0x7ff7e8029df8]
+	chromedriver!(No symbol) [0x7ff7e802ace3]
+	chromedriver!GetHandleVerifier [0x7ff7e858cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7e8587375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7e85abc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7e8296045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7e829ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7e8281bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7e8281d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7e82660e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffe615ae957+17]
+	ntdll!RtlUserThreadStart [0x7ffe62387c1c+2c]
+
+2026-06-06 19:11:28 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:13:59 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:14:05 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:14:12 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:14:31 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:14:32 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:14:52 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:14:52 - myntra_scraper - INFO - [INFO] Direct URL scrape: https://www.myntra.com/tshirts/szn/brooklyn-typography-printed-oversized-t-shirt/33867475/buy
+2026-06-06 19:14:58 - myntra_scraper - INFO - [INFO] Scraping product details: https://www.myntra.com/tshirts/szn/brooklyn-typography-printed-oversized-t-shirt/33867475/buy
+2026-06-06 19:14:58 - myntra_scraper - ERROR - [ERROR] Error scraping product details: float() argument must be a string or a real number, not 'dict'
+2026-06-06 19:15:29 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:15:30 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:15:40 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:15:40 - myntra_scraper - INFO - [INFO] Direct URL scrape: https://www.myntra.com/tshirts/szn/brooklyn-typography-printed-oversized-t-shirt/33867475/buy
+2026-06-06 19:15:44 - myntra_scraper - INFO - [INFO] Scraping product details: https://www.myntra.com/tshirts/szn/brooklyn-typography-printed-oversized-t-shirt/33867475/buy
+2026-06-06 19:15:44 - myntra_scraper - INFO - [OK] Product details extracted: Brooklyn Typography Printed Oversized T-shirt
+2026-06-06 19:15:52 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:16:00 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:16:00 - myntra_scraper - INFO - [INFO] Direct URL scrape: https://www.myntra.com/tshirts/szn/brooklyn-typography-printed-oversized-t-shirt/33867475/buy
+2026-06-06 19:16:04 - myntra_scraper - INFO - [INFO] Scraping product details: https://www.myntra.com/tshirts/szn/brooklyn-typography-printed-oversized-t-shirt/33867475/buy
+2026-06-06 19:16:04 - myntra_scraper - INFO - [OK] Product details extracted: Brooklyn Typography Printed Oversized T-shirt
+2026-06-06 19:16:04 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/tshirts/szn/brooklyn-typography-printed-oversized-t-shirt/33867475/buy
+2026-06-06 19:16:05 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:16:11 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:16:44 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:16:50 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:16:50 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:16:56 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:16:56 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:16:57 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:16:57 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:17:07 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:17:07 - myntra_scraper - INFO - [START] Product name search: mouse
+2026-06-06 19:17:07 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/mouse?rawQuery=mouse
+2026-06-06 19:17:11 - myntra_scraper - INFO - [OK] Searching for: mouse
+2026-06-06 19:17:11 - myntra_scraper - INFO - [OK] Extracted 50 unique products from search
+2026-06-06 19:17:11 - myntra_scraper - INFO - [INFO] Processing product 1/20
+2026-06-06 19:17:13 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-one-wireless-mouse/32642740/buy
+2026-06-06 19:17:13 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:14 - myntra_scraper - INFO - Product inserted: 6a2424e2c63eef02b24cf04a
+2026-06-06 19:17:14 - myntra_scraper - INFO - [INFO] Processing product 2/20
+2026-06-06 19:17:15 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-7-wireless-mouse/32642738/buy
+2026-06-06 19:17:15 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:16 - myntra_scraper - INFO - Product inserted: 6a2424e4c63eef02b24cf04c
+2026-06-06 19:17:16 - myntra_scraper - INFO - [INFO] Processing product 3/20
+2026-06-06 19:17:17 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-one-wireless-mouse/32642739/buy
+2026-06-06 19:17:17 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:17 - myntra_scraper - INFO - Product inserted: 6a2424e5c63eef02b24cf04e
+2026-06-06 19:17:18 - myntra_scraper - INFO - [INFO] Processing product 4/20
+2026-06-06 19:17:19 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-8-transparent-wireless-bluetooth-mouse-with-dual-wireless/32674404/buy
+2026-06-06 19:17:19 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:19 - myntra_scraper - INFO - Product inserted: 6a2424e7c63eef02b24cf050
+2026-06-06 19:17:20 - myntra_scraper - INFO - [INFO] Processing product 5/20
+2026-06-06 19:17:21 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-8-transparent-wireless-bluetooth-mouse-with-dual-wireless/32674485/buy
+2026-06-06 19:17:21 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:22 - myntra_scraper - INFO - Product inserted: 6a2424e9c63eef02b24cf052
+2026-06-06 19:17:22 - myntra_scraper - INFO - [INFO] Processing product 6/20
+2026-06-06 19:17:23 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-23-wireless-mouse-with-24ghz/32642743/buy
+2026-06-06 19:17:23 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:23 - myntra_scraper - INFO - Product inserted: 6a2424ebc63eef02b24cf054
+2026-06-06 19:17:24 - myntra_scraper - INFO - [INFO] Processing product 7/20
+2026-06-06 19:17:25 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-vader-wired-gaming-mouse-with-6-buttons-thumb-support--adjustable-dpi/32674438/buy
+2026-06-06 19:17:25 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:25 - myntra_scraper - INFO - Product inserted: 6a2424edc63eef02b24cf056
+2026-06-06 19:17:26 - myntra_scraper - INFO - [INFO] Processing product 8/20
+2026-06-06 19:17:27 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-vader-pro-wireless-gaming-mouse-with-24-ghz-receiver--6-buttons/32674435/buy
+2026-06-06 19:17:27 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:27 - myntra_scraper - INFO - Product inserted: 6a2424efc63eef02b24cf058
+2026-06-06 19:17:27 - myntra_scraper - INFO - [INFO] Processing product 9/20
+2026-06-06 19:17:29 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-33-wireless-mouse-with-24-ghz-wireless-receiver/32719926/buy
+2026-06-06 19:17:29 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:29 - myntra_scraper - INFO - Product inserted: 6a2424f1c63eef02b24cf05a
+2026-06-06 19:17:29 - myntra_scraper - INFO - [INFO] Processing product 10/20
+2026-06-06 19:17:30 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-23-wireless-mouse/32642742/buy
+2026-06-06 19:17:31 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:31 - myntra_scraper - INFO - Product inserted: 6a2424f3c63eef02b24cf05c
+2026-06-06 19:17:31 - myntra_scraper - INFO - [INFO] Processing product 11/20
+2026-06-06 19:17:32 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-ergo-vertical-advanced-wireless-ergonomic-mouse-24ghz/32719928/buy
+2026-06-06 19:17:33 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:33 - myntra_scraper - INFO - Product inserted: 6a2424f5c63eef02b24cf05e
+2026-06-06 19:17:33 - myntra_scraper - INFO - [INFO] Processing product 12/20
+2026-06-06 19:17:34 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-35-wireless-mouse-with-24-ghz-wireless--adjustable-sensitivity/32674455/buy
+2026-06-06 19:17:35 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:35 - myntra_scraper - INFO - Product inserted: 6a2424f7c63eef02b24cf060
+2026-06-06 19:17:35 - myntra_scraper - INFO - [INFO] Processing product 13/20
+2026-06-06 19:17:36 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/arctic+fox/arctic-fox-alien-x-wireless-and-bluetooth-rechargeable-mouse/38212882/buy
+2026-06-06 19:17:44 - myntra_scraper - INFO - [INFO] Reviews section not immediately visible; scrolling
+2026-06-06 19:17:45 - myntra_scraper - INFO - [OK] Extracted 0 reviews
+2026-06-06 19:17:45 - myntra_scraper - INFO - Product inserted: 6a242501c63eef02b24cf062
+2026-06-06 19:17:45 - myntra_scraper - INFO - [INFO] Processing product 14/20
+2026-06-06 19:17:46 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-27-wireless-mouse-silent-buttons-24-ghz-with-usb-nano-dongle/32719946/buy
+2026-06-06 19:17:46 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:47 - myntra_scraper - INFO - Product inserted: 6a242503c63eef02b24cf063
+2026-06-06 19:17:47 - myntra_scraper - INFO - [INFO] Processing product 15/20
+2026-06-06 19:17:48 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-iii-plus-rechargeable-bluetooth-mouse-with-bluetooth--24-ghz-wireless/32674476/buy
+2026-06-06 19:17:48 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:48 - myntra_scraper - INFO - Product inserted: 6a242504c63eef02b24cf065
+2026-06-06 19:17:49 - myntra_scraper - INFO - [INFO] Processing product 16/20
+2026-06-06 19:17:50 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-35-wireless-mouse-with-24-ghz-wireless--adjustable-sensitivity/32674399/buy
+2026-06-06 19:17:50 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:50 - myntra_scraper - INFO - Product inserted: 6a242506c63eef02b24cf067
+2026-06-06 19:17:50 - myntra_scraper - INFO - [INFO] Processing product 17/20
+2026-06-06 19:17:52 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-6-bluetooth-wireless-mouse-with-24-ghz-usb-receiver-multi-device-pairing/32674480/buy
+2026-06-06 19:17:52 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:52 - myntra_scraper - INFO - Product inserted: 6a242508c63eef02b24cf069
+2026-06-06 19:17:52 - myntra_scraper - INFO - [INFO] Processing product 18/20
+2026-06-06 19:17:53 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-rgb-lights-vader-20-wired-gaming-mouse/36612566/buy
+2026-06-06 19:17:54 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:54 - myntra_scraper - INFO - Product inserted: 6a24250ac63eef02b24cf06b
+2026-06-06 19:17:54 - myntra_scraper - INFO - [INFO] Processing product 19/20
+2026-06-06 19:17:55 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-25-wireless-mouse-24-ghz-with-usb-nano-dongle/32719939/buy
+2026-06-06 19:17:55 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:55 - myntra_scraper - INFO - Product inserted: 6a24250bc63eef02b24cf06d
+2026-06-06 19:17:56 - myntra_scraper - INFO - [INFO] Processing product 20/20
+2026-06-06 19:17:57 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-34-wireless-mouse-with-24-ghz-wireless--adjustable-sensitivity/32674431/buy
+2026-06-06 19:17:57 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:17:57 - myntra_scraper - INFO - Product inserted: 6a24250dc63eef02b24cf06f
+2026-06-06 19:18:04 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:21:13 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:21:14 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:21:22 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:21:22 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:21:26 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:21:28 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:21:31 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:21:35 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:21:36 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:21:49 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:21:49 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:21:54 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:21:54 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:01 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:01 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:02 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:02 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:09 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:09 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:13 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:13 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:16 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:17 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:29 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:29 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:37 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:22:41 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:22:49 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:22:49 - myntra_scraper - INFO - [START] Product name search: mouse (count=3)
+2026-06-06 19:22:49 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/mouse?rawQuery=mouse
+2026-06-06 19:22:54 - myntra_scraper - INFO - [OK] Searching for: mouse
+2026-06-06 19:22:55 - myntra_scraper - INFO - [OK] Extracted 50 unique products from search
+2026-06-06 19:22:55 - myntra_scraper - INFO - [INFO] Processing product 1/3
+2026-06-06 19:22:58 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-one-wireless-mouse/32642740/buy
+2026-06-06 19:22:59 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:22:59 - myntra_scraper - INFO - Product updated: 6a2424e2c63eef02b24cf04a
+2026-06-06 19:22:59 - myntra_scraper - INFO - [INFO] Processing product 2/3
+2026-06-06 19:23:02 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-7-wireless-mouse/32642738/buy
+2026-06-06 19:23:02 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:23:03 - myntra_scraper - INFO - Product updated: 6a2424e4c63eef02b24cf04c
+2026-06-06 19:23:03 - myntra_scraper - INFO - [INFO] Processing product 3/3
+2026-06-06 19:23:05 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-one-wireless-mouse/32642739/buy
+2026-06-06 19:23:05 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:23:06 - myntra_scraper - INFO - Product updated: 6a2424e5c63eef02b24cf04e
+2026-06-06 19:23:12 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:23:15 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:23:16 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:23:35 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:23:35 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:23:35 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:23:35 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:23:53 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:23:53 - myntra_scraper - INFO - [START] Product name search: mouse (count=3)
+2026-06-06 19:23:53 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/mouse?rawQuery=mouse
+2026-06-06 19:23:56 - myntra_scraper - INFO - [OK] Searching for: mouse
+2026-06-06 19:23:57 - myntra_scraper - INFO - [OK] Extracted 50 unique products from search
+2026-06-06 19:23:57 - myntra_scraper - INFO - [INFO] Processing product 1/3
+2026-06-06 19:23:59 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-one-wireless-mouse/32642740/buy
+2026-06-06 19:24:00 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:24:00 - myntra_scraper - INFO - Product updated: 6a2424e2c63eef02b24cf04a
+2026-06-06 19:24:00 - myntra_scraper - INFO - [INFO] Processing product 2/3
+2026-06-06 19:24:02 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-7-wireless-mouse/32642738/buy
+2026-06-06 19:24:03 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:24:03 - myntra_scraper - INFO - Product updated: 6a2424e4c63eef02b24cf04c
+2026-06-06 19:24:03 - myntra_scraper - INFO - [INFO] Processing product 3/3
+2026-06-06 19:24:05 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/mouse/portronics/portronics-toad-one-wireless-mouse/32642739/buy
+2026-06-06 19:24:06 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:24:06 - myntra_scraper - INFO - Product updated: 6a2424e5c63eef02b24cf04e
+2026-06-06 19:24:13 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:25:22 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:25:22 - myntra_scraper - INFO - [START] Product name search: shouse (count=3)
+2026-06-06 19:25:22 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/shouse?rawQuery=shouse
+2026-06-06 19:25:29 - myntra_scraper - INFO - [OK] Searching for: shouse
+2026-06-06 19:25:29 - myntra_scraper - INFO - [OK] Extracted 32 unique products from search
+2026-06-06 19:25:29 - myntra_scraper - INFO - [INFO] Processing product 1/3
+2026-06-06 19:25:33 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:25:35 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:25:42 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:25:42 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:25:48 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:25:48 - myntra_scraper - INFO - [OK] Flask application created and configured
+2026-06-06 19:26:09 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:26:40 - myntra_scraper - WARNING - vaderSentiment not installed
+2026-06-06 19:27:26 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:29:27 - myntra_scraper - WARNING - vaderSentiment not installed
+2026-06-06 19:29:46 - myntra_scraper - WARNING - vaderSentiment not installed
+2026-06-06 19:30:17 - myntra_scraper - WARNING - vaderSentiment not installed
+2026-06-06 19:30:38 - myntra_scraper - WARNING - vaderSentiment not installed
+2026-06-06 19:36:38 - myntra_scraper - WARNING - vaderSentiment not installed
+2026-06-06 19:36:48 - myntra_scraper - WARNING - vaderSentiment not installed
+2026-06-06 19:36:55 - myntra_scraper - WARNING - vaderSentiment not installed
+2026-06-06 19:37:02 - myntra_scraper - WARNING - vaderSentiment not installed
+2026-06-06 19:37:46 - myntra_scraper - WARNING - vaderSentiment not installed
+2026-06-06 19:41:44 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:42:00 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:42:04 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:42:27 - myntra_scraper - WARNING - vaderSentiment not installed
+2026-06-06 19:42:28 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:42:31 - myntra_scraper - WARNING - vaderSentiment not installed
+2026-06-06 19:42:31 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:43:48 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:43:49 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:44:44 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:45:28 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:46:01 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:46:10 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:46:10 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:46:11 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:46:11 - myntra_scraper - INFO - [OK] MongoDB Connection Successful
+2026-06-06 19:49:38 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:49:51 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:50:31 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:52:26 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 19:53:54 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:53:54 - myntra_scraper - INFO - [INFO] Direct URL scrape: https://www.myntra.com/body-wash-and-shower-gel/dove/dove-deeply-nourishing-body-wash---300-ml/16715114/buy
+2026-06-06 19:53:59 - myntra_scraper - INFO - [INFO] Scraping product details: https://www.myntra.com/body-wash-and-shower-gel/dove/dove-deeply-nourishing-body-wash---300-ml/16715114/buy
+2026-06-06 19:54:00 - myntra_scraper - INFO - [OK] Product details extracted: Dove Deeply Nourishing Body Wash - 300 ml
+2026-06-06 19:54:00 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/body-wash-and-shower-gel/dove/dove-deeply-nourishing-body-wash---300-ml/16715114/buy
+2026-06-06 19:54:00 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:54:01 - myntra_scraper - INFO - Product inserted: 6a242d8023bf0924c1603bac
+2026-06-06 19:54:08 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:55:04 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:55:04 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/face-wash?rawQuery=face-wash
+2026-06-06 19:55:08 - myntra_scraper - INFO - [OK] Searching for: face-wash
+2026-06-06 19:55:09 - myntra_scraper - INFO - [OK] Extracted 32 unique products from search
+2026-06-06 19:55:12 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/skin-care-combo/aqualogica/aqualogica-everyday-glow-combo---dewy-sunscreen-50g--smoothie-face-wash-100ml/27933664/buy
+2026-06-06 19:55:12 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:55:12 - myntra_scraper - INFO - Product inserted: 6a242dc823bf0924c1603bae
+2026-06-06 19:55:15 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/face-wash-and-cleanser/dot+%26+key/dot--key-vitamin-ce-super-bright-gel-facewash-with-blood-orange--niacinamide---100ml/24402290/buy
+2026-06-06 19:55:16 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:55:16 - myntra_scraper - INFO - Product inserted: 6a242dcc23bf0924c1603bb0
+2026-06-06 19:55:19 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/face-wash-and-cleanser/the+derma+co./the-derma-co-sali-cinamide-anti-acne-face-wash---150ml/30024588/buy
+2026-06-06 19:55:19 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:55:19 - myntra_scraper - INFO - Product inserted: 6a242dcf23bf0924c1603bb2
+2026-06-06 19:55:22 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/skin-care-combo/joy/joy-set-of-2-ubtan-tan-removal-face-wash---150-ml-with-hello-sun-sunscreen---50-ml/33992039/buy
+2026-06-06 19:55:22 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:55:22 - myntra_scraper - INFO - Product inserted: 6a242dd223bf0924c1603bb4
+2026-06-06 19:55:24 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/face-wash-and-cleanser/becalm/becalm-oily-skin-soap-free-salicylic-acid-airy-face-wash---80-ml/39299955/buy
+2026-06-06 19:55:25 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:55:25 - myntra_scraper - INFO - Product inserted: 6a242dd523bf0924c1603bb6
+2026-06-06 19:55:27 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/face-wash-and-cleanser/minimalist/minimalist-2-salicylic-acid-face-wash-with-lha---100-ml/14669014/buy
+2026-06-06 19:55:28 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:55:28 - myntra_scraper - INFO - Product inserted: 6a242dd823bf0924c1603bb8
+2026-06-06 19:55:35 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 19:56:25 - myntra_scraper - INFO - [OK] Chrome WebDriver initialized
+2026-06-06 19:56:25 - myntra_scraper - INFO - [INFO] Navigating to: https://www.myntra.com/face-wash?rawQuery=face-wash
+2026-06-06 19:56:32 - myntra_scraper - INFO - [OK] Searching for: face-wash
+2026-06-06 19:56:32 - myntra_scraper - INFO - [OK] Extracted 32 unique products from search
+2026-06-06 19:56:35 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/skin-care-combo/aqualogica/aqualogica-everyday-glow-combo---dewy-sunscreen-50g--smoothie-face-wash-100ml/27933664/buy
+2026-06-06 19:56:36 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:56:36 - myntra_scraper - INFO - Product updated: 6a242dc823bf0924c1603bae
+2026-06-06 19:56:39 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/face-wash-and-cleanser/dot+%26+key/dot--key-vitamin-ce-super-bright-gel-facewash-with-blood-orange--niacinamide---100ml/24402290/buy
+2026-06-06 19:56:39 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:56:39 - myntra_scraper - INFO - Product updated: 6a242dcc23bf0924c1603bb0
+2026-06-06 19:56:42 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/face-wash-and-cleanser/the+derma+co./the-derma-co-sali-cinamide-anti-acne-face-wash---150ml/30024588/buy
+2026-06-06 19:56:43 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:56:43 - myntra_scraper - INFO - Product updated: 6a242dcf23bf0924c1603bb2
+2026-06-06 19:56:46 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/skin-care-combo/joy/joy-set-of-2-ubtan-tan-removal-face-wash---150-ml-with-hello-sun-sunscreen---50-ml/33992039/buy
+2026-06-06 19:56:46 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:56:46 - myntra_scraper - INFO - Product updated: 6a242dd223bf0924c1603bb4
+2026-06-06 19:56:48 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/face-wash-and-cleanser/becalm/becalm-oily-skin-soap-free-salicylic-acid-airy-face-wash---80-ml/39299955/buy
+2026-06-06 19:56:49 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:56:49 - myntra_scraper - INFO - Product updated: 6a242dd523bf0924c1603bb6
+2026-06-06 19:56:52 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/face-wash-and-cleanser/minimalist/minimalist-2-salicylic-acid-face-wash-with-lha---100-ml/14669014/buy
+2026-06-06 19:56:52 - myntra_scraper - INFO - [OK] Extracted 1 reviews
+2026-06-06 19:56:52 - myntra_scraper - INFO - Product updated: 6a242dd823bf0924c1603bb8
+2026-06-06 19:56:54 - myntra_scraper - INFO - [INFO] Scraping reviews for: https://www.myntra.com/face-wash-and-cleanser/dadismagic/dadismagic-nourishing-glow-honey--malai-face-wash----100-ml/42152174/buy
+2026-06-06 19:57:03 - myntra_scraper - INFO - [INFO] Reviews section not immediately visible; scrolling
+2026-06-06 19:57:03 - myntra_scraper - INFO - [OK] Extracted 0 reviews
+2026-06-06 19:57:03 - myntra_scraper - INFO - Product inserted: 6a242e3723bf0924c1603bc0
+2026-06-06 19:57:10 - myntra_scraper - INFO - [OK] WebDriver closed
+2026-06-06 20:06:17 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized
+2026-06-06 20:08:04 - myntra_scraper - INFO - [OK] Myntra Analytics Dashboard initialized

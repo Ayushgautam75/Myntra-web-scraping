@@ -1,0 +1,4 @@
+MONGODB_URL_KEY = "MONGO_DB_URL"
+MONGO_DATABASE_NAME = "myntra-reviews"
+
+SESSION_PRODUCT_KEY = "product_name"
